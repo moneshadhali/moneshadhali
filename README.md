@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moneshadhali
 - 👀 I’m interested in the world of code!
 - 🌱 I’m currently learning PHP, Javascript and Java
-- 📫 Reach me through: moneshadhali@gmail.com
+- 📫 Reach me through: dhalimonesha@gmail.com
 
 <!---
 moneshadhali/moneshadhali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
